@@ -24,7 +24,8 @@ body {
   width: 320px;
   padding: 16px 16px 40px 16px;
   border-radius: 20px;
-  background-color: #fff; }
+  background-color: #fff;
+  box-shadow: 0 25px 25px 0 #00000005; }
   .qr-code-card__content {
     display: flex;
     flex-direction: column;
