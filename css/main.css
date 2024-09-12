@@ -7,3 +7,7 @@
   box-sizing: inherit;
   background-color: transparent;
   border: none; }
+
+body {
+  background-color: #d5e1ef;
+  box-sizing: border-box; }
