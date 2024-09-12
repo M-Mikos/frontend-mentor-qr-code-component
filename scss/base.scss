@@ -1,0 +1,14 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+  background-color: transparent;
+  border: none;
+}
+
+body {
+  box-sizing: border-box;
+  background-color: #d5e1ef;
+}
