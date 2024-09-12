@@ -18,9 +18,6 @@ body {
   box-sizing: border-box; }
 
 .qr-code-card {
-  display: flex;
-  flex-direction: column;
-  gap: 24px;
   width: 320px;
   padding: 16px 16px 40px 16px;
   border-radius: 20px;
@@ -31,7 +28,7 @@ body {
     flex-direction: column;
     align-items: center;
     width: fit-content;
-    gap: 16px; }
+    gap: 24px; }
   .qr-code-card__image {
     display: block;
     width: 100%;
